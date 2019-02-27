@@ -10,7 +10,7 @@ A Mac Menubar App that helps open Notion URLs in the Notion Desktop App
 
 Requires OSX 10.14 or later
 
-[Download the latest release here.]()
+[Download the latest release here.](https://github.com/neversitdull/Open-Notion/releases/tag/v1.0)
 
 Double-click on the .dmg file and drag Open Figma into your Applications folder
 <br>
