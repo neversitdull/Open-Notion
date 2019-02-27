@@ -693,7 +693,7 @@
                         <menuItem title="Quit" tag="1" id="BHO-aB-WeK">
                             <modifierMask key="keyEquivalentModifierMask"/>
                             <connections>
-                                <action selector="openNotion:" target="8q8-qQ-fws" id="Zxk-n9-Iap"/>
+                                <action selector="quitApp:" target="8q8-qQ-fws" id="TUI-5H-E63"/>
                             </connections>
                         </menuItem>
                     </items>
